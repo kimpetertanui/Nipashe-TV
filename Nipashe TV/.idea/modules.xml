@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Nipashe TV-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Nipashe TV-app.iml" group="Nipashe TV/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nipashe_TV.iml" filepath="$PROJECT_DIR$/.idea/modules/Nipashe_TV.iml" group="Nipashe_TV" />
+      <module fileurl="file://$PROJECT_DIR$/TheStream.iml" filepath="$PROJECT_DIR$/TheStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TheStream-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TheStream-app.iml" group="TheStream/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_studio-TheStream.iml" filepath="$PROJECT_DIR$/.idea/modules/android_studio-TheStream.iml" group="TheStream" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
