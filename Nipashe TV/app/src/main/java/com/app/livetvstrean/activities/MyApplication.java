@@ -3,6 +3,7 @@ package com.app.livetvstrean.activities;
 import android.app.Application;
 
 import com.onesignal.OneSignal;
+import com.testfairy.TestFairy;
 
 public class MyApplication extends Application {
 
@@ -12,6 +13,7 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+        TestFairy.begin(this, "SDK-ObHFzM1n");
         mInstance = this;
         OneSignal.startInit(this)
                 .unsubscribeWhenNotificationsAreDisabled(true)

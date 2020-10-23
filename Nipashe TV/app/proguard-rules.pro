@@ -15,3 +15,8 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
+
+-keep class com.testfairy.** { *; }
+ -dontwarn com.testfairy.**
+ -keepattributes Exceptions, Signature, LineNumberTable
+ -dontusemixedcaseclassnames
